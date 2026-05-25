@@ -6,7 +6,6 @@ import sys
 from datetime import datetime
 from email.message import EmailMessage
 from pathlib import Path
-from app.supabase_db import supabase
 
 import pandas as pd
 from fastapi import FastAPI
@@ -590,7 +589,6 @@ def mark_job_applied(payload: dict):
         "message": "Job marked as manually applied",
         "job": row
     }
-
 from app.supabase_db import supabase
 
 @app.get("/api/test-db")
