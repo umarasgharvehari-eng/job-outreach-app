@@ -197,7 +197,9 @@ def send_email(to_email: str, subject: str, body: str, attach_resume: bool = Tru
 
 @app.get("/api/state")
 def get_state():
-    return read_state()
+    from app.supabase_db import supabase
+    response = supabase.table("jobs").select("*").limit(1).execute()
+    return {"success": True, "data": response.data}
 
 
 @app.post("/api/worker/start")
