@@ -591,6 +591,8 @@ def mark_job_applied(payload: dict):
         "job": row
     }
 
+from app.supabase_db import supabase
+
 @app.get("/api/test-db")
 def test_db():
     data = supabase.table("jobs").select("*").limit(5).execute()
