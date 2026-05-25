@@ -1,0 +1,28 @@
+{
+  "running": true,
+  "worker_pid": 14364,
+  "job_lock": null,
+  "job_lock_at": null,
+  "last_job": "inbox_sync",
+  "last_job_at": "2026-05-22T14:22:39",
+  "updated_at": "2026-05-22T14:22:39",
+  "started_at": "2026-05-22T10:37:53",
+  "stopped_at": null,
+  "last_job_status": "success",
+  "schedule": [
+    {
+      "job": "functools.partial(<function job_inbox_fast at 0x00000232E5104360>)",
+      "next_run": "2026-05-22T11:04:03"
+    },
+    {
+      "job": "functools.partial(<function outreach_batch at 0x00000232E5104400>)",
+      "next_run": "2026-05-22T11:09:03"
+    },
+    {
+      "job": "functools.partial(<function followups at 0x00000232E51044A0>)",
+      "next_run": "2026-05-22T11:05:00"
+    }
+  ],
+  "last_job_finished_at": "2026-05-22T10:59:03",
+  "last_job_return_code": 0
+}

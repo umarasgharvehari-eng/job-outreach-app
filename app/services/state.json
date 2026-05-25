@@ -1,0 +1,6 @@
+{
+  "running": false,
+  "worker_pid": null,
+  "job_lock": null,
+  "job_lock_at": null
+}

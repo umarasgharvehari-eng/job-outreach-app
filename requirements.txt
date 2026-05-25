@@ -1,0 +1,13 @@
+streamlit
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pandas
+openpyxl
+beautifulsoup4
+lxml
+python-dateutil
+fastapi
+uvicorn
+supabase

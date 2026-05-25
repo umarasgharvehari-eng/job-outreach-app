@@ -1,0 +1,7 @@
+Hi {name},
+
+Just following up on my previous email regarding the application for {title} at {company}.
+Please find my CV attached again.
+
+Thanks,
+Umar

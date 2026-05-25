@@ -1,0 +1,100 @@
+[2026-02-23T14:20:53] Worker started (pid=16444)
+[2026-02-23T14:26:46] Worker started (pid=2108)
+[2026-02-23T14:26:46] Another worker appears running (pid=16444). Exiting.
+[2026-02-23T15:02:22] Worker started (pid=19368)
+[2026-02-23T15:03:18] Worker stopping (running=false)
+[2026-02-23T15:03:18] Worker stopped
+[2026-02-23T15:07:31] Worker started (pid=16260)
+[2026-02-23T15:07:31] Another worker appears running (pid=19368). Exiting.
+[2026-02-23T15:08:18] Worker started (pid=4940)
+[2026-02-23T15:08:18] Another worker appears running (pid=19368). Exiting.
+[2026-02-23T15:11:32] Worker started (pid=9924)
+[2026-02-23T15:16:33] RUN: scripts.45_run_inbox_fast
+[2026-02-23T15:23:29] RUN: scripts.45_run_inbox_fast
+[2026-02-23T15:26:33] RUN: scripts.40_run_batch
+[2026-02-23T15:26:56] ERROR: scripts.40_run_batch failed (code 1)
+[2026-02-23T15:29:56] RUN: scripts.45_run_inbox_fast
+[2026-02-23T15:35:44] RUN: scripts.45_run_inbox_fast
+[2026-02-23T15:39:51] Worker stopping (running=false)
+[2026-02-23T15:39:51] Worker stopped
+[2026-02-23T15:40:00] Worker started (pid=18100)
+[2026-02-23T15:40:00] Another worker appears running (pid=9924). Exiting.
+[2026-02-23T15:49:52] Worker started (pid=4468)
+[2026-02-23T15:49:52] Another worker appears running (pid=9924). Exiting.
+[2026-02-23T15:51:36] Worker started (pid=8820)
+[2026-02-23T15:51:36] Another worker appears running (pid=9924). Exiting.
+[2026-02-23T16:08:32] Worker started (pid=4040)
+[2026-02-23T16:08:32] Another worker appears running (pid=9924). Exiting.
+[2026-02-23T16:33:19] Worker started (pid=8144)
+[2026-02-23T16:33:19] Another worker appears running (pid=9924). Exiting.
+[2026-02-24T13:45:20] Worker started (pid=17392)
+[2026-02-24T13:45:20] Another worker appears running (pid=9924). Exiting.
+[2026-02-25T10:00:18] Worker started (pid=12256)
+[2026-02-25T10:05:19] RUN: scripts.45_run_inbox_fast
+[2026-02-25T10:12:11] RUN: scripts.45_run_inbox_fast
+[2026-02-25T10:15:18] RUN: scripts.40_run_batch
+[2026-02-25T10:19:05] RUN: scripts.45_run_inbox_fast
+[2026-02-25T10:25:32] RUN: scripts.45_run_inbox_fast
+[2026-02-25T10:31:46] RUN: scripts.40_run_batch
+[2026-02-25T10:33:10] RUN: scripts.45_run_inbox_fast
+[2026-02-25T10:38:49] RUN: scripts.45_run_inbox_fast
+[2026-02-25T10:45:13] RUN: scripts.45_run_inbox_fast
+[2026-02-25T10:48:10] RUN: scripts.40_run_batch
+[2026-02-25T10:51:31] RUN: scripts.45_run_inbox_fast
+[2026-02-25T10:58:09] RUN: scripts.45_run_inbox_fast
+[2026-02-25T11:04:46] RUN: scripts.40_run_batch
+[2026-02-25T11:06:35] ERROR: scripts.40_run_batch failed (code 1)
+[2026-02-25T11:06:36] RUN: scripts.45_run_inbox_fast
+[2026-02-25T11:08:19] RUN: scripts.41_run_followups
+[2026-02-25T11:13:19] RUN: scripts.45_run_inbox_fast
+[2026-02-25T11:20:20] RUN: scripts.45_run_inbox_fast
+[2026-02-25T11:21:35] RUN: scripts.40_run_batch
+[2026-02-25T11:26:13] RUN: scripts.45_run_inbox_fast
+[2026-02-25T11:32:13] RUN: scripts.45_run_inbox_fast
+[2026-02-25T11:38:54] RUN: scripts.40_run_batch
+[2026-02-25T11:41:03] RUN: scripts.45_run_inbox_fast
+[2026-02-25T11:49:10] RUN: scripts.45_run_inbox_fast
+[2026-02-25T11:56:02] RUN: scripts.40_run_batch
+[2026-02-25T11:57:54] RUN: scripts.45_run_inbox_fast
+[2026-02-25T12:05:42] RUN: scripts.45_run_inbox_fast
+[2026-02-25T12:12:53] RUN: scripts.40_run_batch
+[2026-02-25T12:14:30] ERROR: scripts.40_run_batch failed (code 1)
+[2026-02-25T12:15:09] RUN: scripts.45_run_inbox_fast
+[2026-02-25T12:24:35] RUN: scripts.45_run_inbox_fast
+[2026-02-25T12:27:39] ERROR: scripts.45_run_inbox_fast failed (code 1)
+[2026-02-25T12:29:31] RUN: scripts.40_run_batch
+[2026-02-25T12:32:39] RUN: scripts.45_run_inbox_fast
+[2026-02-25T16:15:24] Worker started (pid=664)
+[2026-02-25T16:20:24] RUN: scripts.45_run_inbox_fast
+[2026-02-25T16:28:56] RUN: scripts.45_run_inbox_fast
+[2026-02-25T16:33:15] RUN: scripts.40_run_batch
+[2026-02-25T16:38:14] RUN: scripts.45_run_inbox_fast
+[2026-02-26T11:57:34] Worker started (pid=864)
+[2026-02-26T11:57:34] Another worker appears running (pid=664). Exiting.
+[2026-02-26T14:54:28] Worker started (pid=9164)
+[2026-02-26T14:54:28] Another worker appears running (pid=664). Exiting.
+[2026-03-03T14:26:33] Worker started (pid=3800)
+[2026-03-03T14:26:33] Another worker appears running (pid=664). Exiting.
+[2026-05-21T10:46:48] Worker started (pid=3308)
+[2026-05-21T10:46:48] Another worker appears running (pid=664). Exiting.
+[2026-05-21T10:47:27] Worker started (pid=14828)
+[2026-05-21T10:47:27] Another worker appears running (pid=664). Exiting.
+[2026-05-21T13:10:01] Worker started (pid=8076)
+[2026-05-21T13:10:01] Another worker appears running (pid=664). Exiting.
+[2026-05-22T10:22:41] Worker started pid=696
+[2026-05-22T10:22:41] Initial inbox sync starting
+[2026-05-22T10:22:41] RUN: scripts.45_run_inbox_fast
+[2026-05-22T10:22:53] ERROR: scripts.45_run_inbox_fast failed with code 1
+[2026-05-22T10:37:53] Worker started pid=14364
+[2026-05-22T10:37:53] Initial inbox sync starting
+[2026-05-22T10:37:53] RUN: scripts.45_run_inbox_fast
+[2026-05-22T10:39:20] DONE: scripts.45_run_inbox_fast
+[2026-05-22T10:42:53] RUN: scripts.45_run_inbox_fast
+[2026-05-22T10:44:40] DONE: scripts.45_run_inbox_fast
+[2026-05-22T10:49:41] RUN: scripts.45_run_inbox_fast
+[2026-05-22T10:52:24] DONE: scripts.45_run_inbox_fast
+[2026-05-22T10:52:54] RUN: scripts.40_run_batch
+[2026-05-22T10:54:03] ERROR: scripts.40_run_batch failed with code 1
+[2026-05-22T10:57:24] RUN: scripts.45_run_inbox_fast
+[2026-05-22T10:59:03] DONE: scripts.45_run_inbox_fast
+[2026-05-22T12:54:30] Another worker appears running pid=14364. Exiting.

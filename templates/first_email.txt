@@ -1,0 +1,7 @@
+Hi {name},
+
+I hope you’re doing well. I’m applying for {title} at {company}.
+Please find my CV attached.
+
+Thanks,
+Umar
